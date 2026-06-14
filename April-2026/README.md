@@ -17,6 +17,86 @@ Welcome to the April 2026 Builders Skill Sprint Challenge! In this hands-on chal
 | 5 | **Innovate: MCP Agent** — Build your own MCP-powered agent (any MCP server!) | Bedrock (Nova Pro) | 🚀 Innovate |
 
 ---
+# Challenge 1 – Building My First AI Agent
+Objective
+
+Create a basic AI agent and understand how prompts are processed by a language model.
+
+# What I Implemented
+Configured the development environment
+Built a simple conversational AI agent
+Sent prompts and received responses from the model
+Key Learnings
+Fundamentals of AI agents
+Prompt-response workflows
+Strands SDK basics
+Agent architecture overview
+
+
+# Challenge 2 – Adding Tools to an Agent
+Objective
+
+Extend the capabilities of an AI agent using tools.
+
+# What I Implemented
+Calculator Tool
+Weather Tool
+Age Calculator Tool
+Key Learnings
+Creating custom tools using the @tool decorator
+Tool orchestration
+API integration
+How agents decide when to invoke tools
+
+
+# Challenge 3 – Enabling Agent Memory
+Objective
+
+Allow the AI agent to remember information across interactions.
+
+# What I Implemented
+Persistent memory functionality
+Storage and retrieval of user information
+Context-aware conversations
+Key Learnings
+Memory systems in AI agents
+Context retention
+Personalized user experiences
+Information retrieval techniques
+
+
+# Challenge 4 – Building a Full Agent
+Objective
+
+Combine multiple agent capabilities into a complete AI assistant.
+
+# What I Implemented
+Tool integration
+Memory integration
+Interactive conversations
+Intelligent task execution
+Key Learnings
+End-to-end AI workflows
+Agent orchestration
+Multi-capability AI systems
+Practical AI assistant development
+
+
+# Challenge 5 – MCP-Based Agent
+Objective
+
+Build an AI agent capable of interacting with external systems using MCP.
+
+# What I Implemented
+MCP integration
+AWS Documentation access
+External resource connectivity
+Intelligent information retrieval
+Key Learnings
+Model Context Protocol (MCP)
+External system integration
+Knowledge retrieval
+Extending agent capabilities beyond the language model
 
 ## 📋 Prerequisites
 
